@@ -1,0 +1,14 @@
+﻿Сборка начата 26.10.2017 8:49:33.
+     1>Проект "C:\Users\comfy\Documents\Visual Studio 2013\Projects\ConsoleApplication39\ConsoleApplication39\ConsoleApplication39.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         G:\Программы\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\ConsoleApplication39.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         G:\Программы\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication39.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication39.cpp
+         ConsoleApplication39.cpp
+     1>c:\users\comfy\documents\visual studio 2013\projects\consoleapplication39\consoleapplication39\consoleapplication39.cpp(56): error C2084: функция "int wmain(int,_TCHAR *[])" уже имеет текст реализации
+                 c:\users\comfy\documents\visual studio 2013\projects\consoleapplication39\consoleapplication39\consoleapplication39.cpp(29): см. предыдущее определение "wmain"
+     1>Сборка проекта "C:\Users\comfy\Documents\Visual Studio 2013\Projects\ConsoleApplication39\ConsoleApplication39\ConsoleApplication39.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:06.84
