@@ -10,7 +10,7 @@ class Home
 public:
 	void set() {
 
-
+	int x=0; x<20; x++;
 	}
 	void show() {
 
